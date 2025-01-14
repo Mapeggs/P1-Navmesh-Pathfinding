@@ -1,5 +1,5 @@
 
-# A*
+# A* one direction
 
 # from math import sqrt
 # from heapq import heappush, heappop
@@ -84,8 +84,7 @@
 #     return [], list(visited)
 
 
-
-
+#Bi-directional Search, debugged with claude and a example A* bidirectional search
 from math import sqrt
 from heapq import heappush, heappop
 
